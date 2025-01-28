@@ -14,4 +14,11 @@ Churn modeling is a predictive analytics technique used to identify customers wh
 
 Churn modeling helps businesses reduce customer attrition and increase long-term customer loyalty.
 
-https://github.com/shabanaalina14/Churn_Modeling/tree/main
+git clone https://github.com/shabanaalina14/Churn_Modeling/tree/main
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
